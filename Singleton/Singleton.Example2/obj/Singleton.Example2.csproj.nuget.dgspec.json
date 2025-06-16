@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/Singleton.Example2.csproj": {}
+    "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example2/Singleton.Example2.csproj": {}
   },
   "projects": {
-    "/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/Singleton.Example2.csproj": {
+    "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example2/Singleton.Example2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/Singleton.Example2.csproj",
+        "projectUniqueName": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example2/Singleton.Example2.csproj",
         "projectName": "Singleton.Example2",
-        "projectPath": "/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/Singleton.Example2.csproj",
+        "projectPath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example2/Singleton.Example2.csproj",
         "packagesPath": "/home/buffer/.nuget/packages/",
-        "outputPath": "/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/",
+        "outputPath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/buffer/.nuget/NuGet/NuGet.Config"

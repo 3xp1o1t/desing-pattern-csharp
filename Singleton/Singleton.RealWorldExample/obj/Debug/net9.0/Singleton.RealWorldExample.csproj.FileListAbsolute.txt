@@ -1,0 +1,15 @@
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/bin/Debug/net9.0/Singleton.RealWorldExample
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/bin/Debug/net9.0/Singleton.RealWorldExample.deps.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/bin/Debug/net9.0/Singleton.RealWorldExample.runtimeconfig.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/bin/Debug/net9.0/Singleton.RealWorldExample.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/bin/Debug/net9.0/Singleton.RealWorldExample.pdb
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.AssemblyInfoInputs.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.AssemblyInfo.cs
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.csproj.CoreCompileInputs.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.sourcelink.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/refint/Singleton.RealWorldExample.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.pdb
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/Singleton.RealWorldExample.genruntimeconfig.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/Debug/net9.0/ref/Singleton.RealWorldExample.dll

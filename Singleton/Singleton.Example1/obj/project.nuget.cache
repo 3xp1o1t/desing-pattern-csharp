@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YvvijHC0aPk=",
+  "dgSpecHash": "/JsNsyWLDTs=",
   "success": true,
-  "projectFilePath": "/home/buffer/Documents/Dotnet/Singleton/Singleton.Example1/Singleton.Example1.csproj",
+  "projectFilePath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example1/Singleton.Example1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example1/Singleton.Example1.csproj",
-      "projectName": "Singleton.Example1",
-      "projectPath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example1/Singleton.Example1.csproj",
+      "projectUniqueName": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/Singleton.RealWorldExample.csproj",
+      "projectName": "Singleton.RealWorldExample",
+      "projectPath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/Singleton.RealWorldExample.csproj",
       "packagesPath": "/home/buffer/.nuget/packages/",
-      "outputPath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.Example1/obj/",
+      "outputPath": "/home/buffer/Documents/Dotnet/DesingPatterns/Singleton/Singleton.RealWorldExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/buffer/.nuget/NuGet/NuGet.Config"
