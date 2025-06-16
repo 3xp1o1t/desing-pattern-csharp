@@ -1,0 +1,14 @@
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/bin/Debug/net9.0/Singleton.Example2
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/bin/Debug/net9.0/Singleton.Example2.deps.json
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/bin/Debug/net9.0/Singleton.Example2.runtimeconfig.json
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/bin/Debug/net9.0/Singleton.Example2.dll
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/bin/Debug/net9.0/Singleton.Example2.pdb
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.GeneratedMSBuildEditorConfig.editorconfig
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.AssemblyInfoInputs.cache
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.AssemblyInfo.cs
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.csproj.CoreCompileInputs.cache
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.dll
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/refint/Singleton.Example2.dll
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.pdb
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/Singleton.Example2.genruntimeconfig.cache
+/home/buffer/Documents/Dotnet/Singleton/Singleton.Example2/obj/Debug/net9.0/ref/Singleton.Example2.dll
