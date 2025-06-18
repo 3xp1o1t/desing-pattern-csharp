@@ -1,0 +1,15 @@
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.GeneratedMSBuildEditorConfig.editorconfig
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.AssemblyInfoInputs.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.AssemblyInfo.cs
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.csproj.CoreCompileInputs.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.sourcelink.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/bin/Debug/net9.0/Strategy.Example1
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/bin/Debug/net9.0/Strategy.Example1.deps.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/bin/Debug/net9.0/Strategy.Example1.runtimeconfig.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/bin/Debug/net9.0/Strategy.Example1.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/bin/Debug/net9.0/Strategy.Example1.pdb
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/refint/Strategy.Example1.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.pdb
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/Strategy.Example1.genruntimeconfig.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.Example1/obj/Debug/net9.0/ref/Strategy.Example1.dll
