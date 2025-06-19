@@ -1,0 +1,15 @@
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/bin/Debug/net9.0/Strategy.RealLifeExample
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/bin/Debug/net9.0/Strategy.RealLifeExample.deps.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/bin/Debug/net9.0/Strategy.RealLifeExample.runtimeconfig.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/bin/Debug/net9.0/Strategy.RealLifeExample.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/bin/Debug/net9.0/Strategy.RealLifeExample.pdb
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.AssemblyInfoInputs.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.AssemblyInfo.cs
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.csproj.CoreCompileInputs.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.sourcelink.json
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/refint/Strategy.RealLifeExample.dll
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.pdb
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/Strategy.RealLifeExample.genruntimeconfig.cache
+/home/buffer/Documents/Dotnet/DesingPatterns/Strategy/Strategy.RealLifeExample/obj/Debug/net9.0/ref/Strategy.RealLifeExample.dll
